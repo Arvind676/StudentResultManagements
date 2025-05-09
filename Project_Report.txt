@@ -1,0 +1,23 @@
+
+Student Result Management System (Java Console Project)
+========================================================
+
+**Project Description:**
+This is a Java console-based application developed for managing and displaying student results. It allows adding students, entering their marks, and computing results including total, average, and grade.
+
+**Objectives:**
+- To demonstrate core Java skills: classes, arrays, user input, conditionals, loops.
+- To implement a menu-driven console system for data management.
+- To automate grade computation based on student marks.
+
+**Key Features:**
+- Add student with roll number and 3 subject marks.
+- Calculate total, average, and grade automatically.
+- Display results in a clean format.
+
+**Technologies Used:**
+- Java (JDK 8+)
+- Console (CLI-based)
+
+**Conclusion:**
+The project successfully demonstrates a fundamental Java application with object-oriented design and a clean, interactive user interface through the command line.
